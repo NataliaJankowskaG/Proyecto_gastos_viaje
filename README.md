@@ -3,7 +3,7 @@
 Objetivo del proyecto:
 Automatización Inteligente de Gastos de Viaje con API de ChatGPT, usando Python y visualizando en Power BI.
 
-Por aquí os comparto un proyecto en el que he trabajado junto a [@Nombre1], [@Nombre2], [@Nombre3] y [@Nombre4], donde combinamos el poder de la automatización con inteligencia artificial (API de ChatGPT) para transformar la gestión de gastos de viaje en más automatizado, eficiente y visual.
+Por aquí os comparto un proyecto en el que he trabajado junto a mi grupo de BootCamp Data Science, donde combinamos el poder de la automatización con inteligencia artificial (API de ChatGPT) para transformar la gestión de gastos de viaje en más automatizado, eficiente y visual.
 
 ¿Cuál era el reto?
 Procesar tickets y facturas de viaje de forma manual es lento, propenso a errores y limita el control financiero en tiempo real.
